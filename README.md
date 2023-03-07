@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora feita totalmente em python
+Calculadora simples feita com a biblioteca inbutida do Python Tkinter
